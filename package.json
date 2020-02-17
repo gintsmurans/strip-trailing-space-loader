@@ -1,8 +1,8 @@
 {
   "name": "strip-trailing-space-loader",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Strip trailing whitespace from javascript files",
-  "main": "main.js",
+  "main": "src/main.js",
   "engines": {
     "node": ">= 0.12"
   },
@@ -15,7 +15,7 @@
     "LICENSE",
     "README.md",
     "package.json",
-    "src/main.js"
+    "src"
   ],
   "keywords": [
     "trailing whitespace",
