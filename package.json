@@ -1,6 +1,6 @@
 {
   "name": "strip-trailing-space-loader",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Strip trailing whitespace from javascript files",
   "main": "main.js",
   "engines": {
@@ -12,10 +12,10 @@
     "url": "git+ssh://git@github.com/gintsmurans/strip-trailing-space-loader.git"
   },
   "files": [
-    "main.js",
     "LICENSE",
+    "README.md",
     "package.json",
-    "README.md"
+    "src/main.js"
   ],
   "keywords": [
     "trailing whitespace",
