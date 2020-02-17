@@ -1,0 +1,39 @@
+{
+  "name": "strip-trailing-space-loader",
+  "version": "1.0.0",
+  "description": "Strip trailing whitespace from javascript files",
+  "main": "main.js",
+  "engines": {
+    "node": ">= 0.12"
+  },
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/gintsmurans/strip-trailing-space-loader.git"
+  },
+  "files": [
+    "main.js",
+    "LICENSE",
+    "package.json",
+    "README.md"
+  ],
+  "keywords": [
+    "trailing whitespace",
+    "trailing space",
+    "whitespace",
+    "strip-whitespace",
+    "minification",
+    "webpack",
+    "loader"
+  ],
+  "author": "Gints Murans <gm@gm.lv>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/gintsmurans/strip-trailing-space-loader/issues"
+  },
+  "homepage": "https://github.com/gintsmurans/strip-trailing-space-loader#readme",
+  "devDependencies": {},
+  "dependencies": {
+    "loader-utils": "^1.2.3"
+  }
+}
